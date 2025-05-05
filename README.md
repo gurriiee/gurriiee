@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gursharan Singh Rehal</h1>
+<h1 align="center">Hi 👋, I'm Gursharan Singh</h1>
 
 - 🔭 I’m currently working on **a smart aid using STM32, ML and real-time feedback systems.**
 
